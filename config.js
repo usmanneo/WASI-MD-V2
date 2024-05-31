@@ -55,7 +55,7 @@ module.exports = {
   ownername: process.env.OWNER_NAME || "Usman",
   errorChat: process.env.ERROR_CHAT || "923034088220",
   KOYEB_API: process.env.KOYEB_API || "false",
-  REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
+  REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "2GBv7MBGs7NossXTnN1rsvvX",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
